@@ -1,0 +1,6 @@
+@BallotService_HostAddress = http://localhost:5104
+
+GET {{BallotService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
